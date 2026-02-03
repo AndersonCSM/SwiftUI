@@ -24,10 +24,6 @@ Practices carried out during training:
 - Xcode;
 - Postman.
 
-## Contact
-- Social networks: https://github.com/AndersonCSM
-- Contact email: andersoncarlos799@gmail.com
-
 ---
 ## Sobre
 Repositório de projetos em SwiftUI desenvolvidos durante a capacitação ofertada durante o curso de Práticas de Cloud Services utilizando Swift, com foco especial em Serviços Cognitivos ofertado pelo instituto Eldorado através do projeto Hackatruck.
@@ -54,9 +50,3 @@ Práticas exercidas durante a capacitação:
 - IBM Cloudant;
 - Xcode;
 - Postman.
-
-## Contato
-- Redes sociais: https://github.com/AndersonCSM
-- email de contato: andersoncarlos799@gmail.com
-
----
